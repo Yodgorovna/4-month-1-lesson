@@ -6,11 +6,14 @@ let, var , const bular o'zgaruvchilarni e'lon qilish uchun tiplar;
 
 Matematik operatorlar:
 
-- qo’shish
++  qo’shish
 
-* ayirish
+-  ayirish
 
-- ko’paytirish
-  / bo’lish
-  \*\* daraja
-  % qoldiqli bo’lish
+*  ko’paytirish
+  
+/  bo’lish
+
+** daraja
+
+%  qoldiqli bo’lish
