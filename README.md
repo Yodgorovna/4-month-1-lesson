@@ -5,12 +5,9 @@ prompt(), confirm() kabi buyruqlar esa input yani ma'lumot kiritish buyruqlari;
 let, var , const bular o'zgaruvchilarni e'lon qilish uchun tiplar;
 
 Matematik operatorlar:
-
-+  qo’shish
-
--  ayirish
-
-*  ko’paytirish
++ qo’shish
+- ayirish
+* ko’paytirish
   
 /  bo’lish
 
